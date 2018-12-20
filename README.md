@@ -1,8 +1,8 @@
-# meu portifolio
+# Meu portifolio
 
 William campos silva, 19 anos 
 
-programador medio em construtc , amante de jogos ;
+programador medio em construtc , amante de jogos e uma pessoal de boa;
 
 
 # Contatos 
@@ -21,6 +21,9 @@ programador medio em construtc , amante de jogos ;
 **Meu jogo** : _Jogo muito legal_
 
 ### Artes 
-
+1.adicoanr um link(url)
+[clique aqui](https://www.piskelapp.com/user/5127149687144448/public)
 #### Alunos
-![FOFUXUCO](https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/04/what-homer-simpson-taught-us-about-doughnuts.jpg)
+
+
+### Markdown
