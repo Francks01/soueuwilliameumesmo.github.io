@@ -23,6 +23,10 @@ programador medio em construtc , amante de jogos e uma pessoal de boa;
 ### Artes 
 1.adicoanr um link(url)
 [clique aqui](https://www.piskelapp.com/user/5127149687144448/public)
+2.imagem da internet
+![clique aqui](https://pbs.twimg.com/profile_images/725013638411489280/4wx8EcIA.jpg)
+
+3.adicionar uma imagem do computador
 #### Alunos
 
 
