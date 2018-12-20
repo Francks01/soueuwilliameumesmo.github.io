@@ -28,7 +28,7 @@ programador medio em construtc , amante de jogos e uma pessoal de boa;
 ![clique aqui](https://pbs.twimg.com/profile_images/725013638411489280/4wx8EcIA.jpg)
 
 3.adicionar uma imagem do computador(arquivo)
-![imagem1](Personagem Principal .png)
+![imagem1](Personagem%20Principal%20.png)
 #### Alunos
 
 
