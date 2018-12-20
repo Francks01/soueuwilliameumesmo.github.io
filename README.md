@@ -32,7 +32,11 @@ programador medio em construtc , amante de jogos e uma pessoal de boa;
 
 4.adicionar um link que seja a imagem(url + arquivo)
 [![imagem](Personagem%20Principal%20.png)](http://twitter.com)
-#### Alunos
+
+5.Avançado:adicionar um link que seja iamgem
+           e qie abra em uma nova janela
+        <a href="http://twitter.com" target="_blank">![imagem1](Personagem%20Principal%20.png) </a>
+  #### Alunos
 
 
 ### Markdown
