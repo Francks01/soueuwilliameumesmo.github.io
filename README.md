@@ -34,8 +34,9 @@ programador medio em construtc , amante de jogos e uma pessoal de boa;
 [![imagem](Personagem%20Principal%20.png)](http://twitter.com)
 
 5.Avançado:adicionar um link que seja iamgem e que abra em uma nova janela    
-        <a href="http://twitter.com" target="_blank">![imagem1](Personagem%20Principal%20.png) </a>
-  #### Alunos
+<a href="http://twitter.com" target="_blank">![imagem1](Personagem%20Principal%20.png)</a>
+
+#### Alunos
 
 
 ### Markdown
