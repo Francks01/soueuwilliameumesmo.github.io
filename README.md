@@ -33,7 +33,7 @@ Este é um gif que fiz no piskel, utilizando uma dica de um amigo meu, devo adim
   <!--3. Adicionar uma imagem do computador (arquivo):
   ![Imagem](soul-eater-1.jpg)-->
  
-  <!--4.Adicionar um link que seja a imagem:
+  <!--4.Adicionar um link que seja a imagem : 
   [![Imagem1](813479_1.jpg)](http://Twitter.com)-->
   
   <!--5.Adicionar um link que seja a imagem e que abra em uma nova guia:
