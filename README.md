@@ -1,6 +1,6 @@
 # Meu portifolio
 # Portifólio:
- ![Imagem](Perfil.jpeg)
+ ![Imagem](Perfil.jpg)
 ## William Campos, 20 anos.
 
 # Sobre mim:
