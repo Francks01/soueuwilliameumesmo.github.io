@@ -5,28 +5,22 @@
 # Sobre mim:
  Faço programação de jogos digitais no IFRN campus ceará-mirim, e meu grande sonho é me tornar um execelente programador
  de jogos digitais, amo estar na praia e em lugares semelhantes, passo meu tempo livre assistindo um monte de séries e 
- assistindo gameplays de jogos que me inspiro para programar!
+ vendo gameplays de jogos que me inspiro para programar, além de que as vezes dou uma de artista em pixelart, você pode 
+ acompanhar um pouco mais do meu trabalho a seguir, dá uma olhada!
 
 # Artes feitas:
-A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
+Temos aqui um pistoleiro que fiz em umas de minhas primeiras artes no estilo pixel art:
 ![Imagem](PERSON.png)
 
-Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
+Esta é a arma que ele usaria pra matar alguns monstros:
 ![Imagem](ARMA.png)
 
-Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo
-ela foi inspirada nas personagens de um jogo que se chama skullgirls:
+Este é um gif que fiz no piskel, utilizando uma dica de um amigo meu, devo adimitir que ficou bem legal e curti muito ela:
 ![Imagem](MOEDA.gif)
-
-Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
-![Imagem](AGRFOI.png)
 
 
 # Alguns de meus jogos: 
-## The legend of zestria:
-![Imagem](The-Legend-Of-Zestria.png)
 
-<a href = "https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/" target = "_blank">  CONFIRA O GAME!  </a> 
 ## Super Dino:
 ![Imagem](Super-dino.png)
 <a href = "https://lemuelmarques.github.io/SUPERDINO/" target = "_blank">  CONFIRA O GAME!  </a>
@@ -48,8 +42,8 @@ Este é o personagem que deveria ser um novo deus da mitologia grega em um dos m
   # Contatos
 
 1. E-mail: tryout3699@gmail.com
-2. Facebook:
-<a href = "https://www.facebook.com/anthony.gabriel.1272" target = "_blank">  Clique aqui  </a> para ir ao meu facebook!
+2. Facebook: 
+<a href = "https://m.facebook.com/william.campos.7712?ref=bookmarks" target = "_blank">  Clique aqui para ver meu perfil no facebook </a> 
 
 
 
