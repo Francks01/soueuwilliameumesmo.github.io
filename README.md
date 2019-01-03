@@ -38,8 +38,7 @@ Este é um gif que fiz no piskel, utilizando uma dica de um amigo meu, devo adim
   
   <!--5.Adicionar um link que seja a imagem e que abra em uma nova guia:
   <a href = "http://google.com" target  = "_blank" > ![Imagem](soul-eater-1.jpg) </a> -->
-  
-  # Contatos
+# Contatos
 
 1. E-mail: Camposwilliam23@gmail.com
 2. Facebook: 
