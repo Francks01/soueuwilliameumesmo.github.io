@@ -20,7 +20,7 @@
 
 ## Super Dino:
 ![Imagem](Super-dino.png)
-<a href = "https://lemuelmarques.github.io/SUPERDINO/" target = "_blank">  CURTA MEU GAME!  </a>
+<a href = "https://lemuelmarques.github.io/SUPERDINO/" target = "_blank"> CURTA MEU GAME!  </a>
  <!-- 1. Adicionar um Link (url):
   [Clique aqui](https://pbs.twimg.com/profile_images/505770595422699521/n8bFETLR.jpeg)-->
   
