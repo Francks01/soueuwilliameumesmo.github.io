@@ -12,7 +12,7 @@ A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pr
 ![Imagem](Correndo-save-1.gif)
 
 Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
-![Imagem](Arma .png)
+![Imagem](Arma.png)
 
 Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo
 ela foi inspirada nas personagens de um jogo que se chama skullgirls:
