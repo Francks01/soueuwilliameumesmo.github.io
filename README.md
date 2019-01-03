@@ -1,42 +1,55 @@
 # Meu portifolio
+# Portifólio:
+ ![Imagem](minhafoto.jpg)
+## William Campos, 20 anos.
 
-William campos silva, 19 anos 
+# Sobre mim:
+ Faço programação de jogos digitais no IFRN campus ceará-mirim, e meu grande sonho é me tornar um execelente programador
+ de jogos digitais!
 
-programador medio em construtc , amante de jogos e uma pessoal de boa;
+# Artes feitas:
+A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
+![Imagem](Correndo-save-1.gif)
 
+Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
+![Imagem](Liacaoo-andando.gif)
 
-# Contatos 
+Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo
+ela foi inspirada nas personagens de um jogo que se chama skullgirls:
+![Imagem](AGRVAI.gif)
 
-1. Twitter:
-2. E-mail:
-3. Fcebook: 
-
-
-- Number 1
-- Number 2
-- Number 3
-
-## Jogos
-
-**Meu jogo** : _Jogo muito legal_
-
-### Artes 
-1.adicoanr um link(url)
-[clique aqui](https://www.piskelapp.com/user/5127149687144448/public)
-
-2.imagem da internet
-![clique aqui](https://pbs.twimg.com/profile_images/725013638411489280/4wx8EcIA.jpg)
-
-3.adicionar uma imagem do computador(arquivo)
-![imagem1](Personagem%20Principal%20.png)
-
-4.adicionar um link que seja a imagem(url + arquivo)
-[![imagem](Personagem%20Principal%20.png)](http://twitter.com)
-
-5.Avançado:adicionar um link que seja iamgem e que abra em uma nova janela    
-<a href="http://twitter.com" target="_blank">![imagem1](Personagem%20Principal%20.png)</a>
-
-#### Alunos
+Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
+![Imagem](AGRFOI.png)
 
 
-### Markdown
+# Alguns de meus jogos: 
+## The legend of zestria:
+![Imagem](The-Legend-Of-Zestria.png)
+
+<a href = "https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/" target = "_blank">  CONFIRA O GAME!  </a> 
+## Super Dino:
+![Imagem](Super-dino.png)
+<a href = "https://lemuelmarques.github.io/SUPERDINO/" target = "_blank">  CONFIRA O GAME!  </a>
+ <!-- 1. Adicionar um Link (url):
+  [Clique aqui](https://pbs.twimg.com/profile_images/505770595422699521/n8bFETLR.jpeg)-->
+  
+ <!-- 2.Adicionar uma imagem da internet:
+  ![Clique aqui](https://http2.mlstatic.com/caneca-porcelana-geek-simpsons-hommer-D_NQ_NP_646731-MLB26105730119_102017-F.jpg)-->
+  
+  <!--3. Adicionar uma imagem do computador (arquivo):
+  ![Imagem](soul-eater-1.jpg)-->
+ 
+  <!--4.Adicionar um link que seja a imagem:
+  [![Imagem1](813479_1.jpg)](http://Twitter.com)-->
+  
+  <!--5.Adicionar um link que seja a imagem e que abra em uma nova guia:
+  <a href = "http://google.com" target  = "_blank" > ![Imagem](soul-eater-1.jpg) </a> -->
+  
+  # Contatos
+
+1. E-mail: tryout3699@gmail.com
+2. Facebook:
+<a href = "https://www.facebook.com/anthony.gabriel.1272" target = "_blank">  Clique aqui  </a> para ir ao meu facebook!
+
+
+
