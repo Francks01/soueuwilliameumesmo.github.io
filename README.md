@@ -1,11 +1,11 @@
 # Meu portifolio
-# Portifólio:
  ![Imagem](Perfil.jpg)
 ## William Campos, 20 anos.
 
 # Sobre mim:
  Faço programação de jogos digitais no IFRN campus ceará-mirim, e meu grande sonho é me tornar um execelente programador
- de jogos digitais!
+ de jogos digitais, amo estar na praia e em lugares semelhantes, passo meu tempo livre assistindo um monte de séries e 
+ assistindo gameplays de jogos que me inspiro para programar!
 
 # Artes feitas:
 A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
