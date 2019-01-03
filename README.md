@@ -9,7 +9,7 @@
 
 # Artes feitas:
 A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
-![Imagem](Correndo-save-1.gif)
+![Imagem](PERSON.png)
 
 Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
 ![Imagem](Arma.png)
