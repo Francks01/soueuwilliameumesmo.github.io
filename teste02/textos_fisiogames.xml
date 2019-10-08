@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Text>
+	<Text_Menu id="TextoMenu">
+		Click e Segure para Ir para o lauch
+	</Text_Menu>
+	<Teladefases>
+		<FalaInicial id ="Bemvindo">
+			olá,eu sou o zio, ajudarei voce com os comandos essenciais do jogo, aqui voce pode escolher os mini games que deseja jogar, para selecionar o game de um click ,para joga-lo click e segure.
+		</FalaInicial>
+		<Voltaaolauch >
+			<jogoCowboy id= "Cowboy">
+				Que tal matar uns alienigenas que invadiram sua nave??
+			</jogoCowboy>
+			<jooFutebol id= "Futebol">
+				Quer se tornar o novo astro do mundo futebolistico ??
+			</jooFutebol>
+			<jogoNave id= "nave">
+				por que nãe pegar moedas em quanto desvia de balas de canhão ??
+			</jogoNave>
+
+		</Voltaaolauch> 		
+	</Teladefases>
+	<FaseCowboy>
+		<introdução id= "Historiadojogo">
+			starky é um cowboy-robo espacial onde passa suas horas viajando para desbravar o universo, mas recentemente enquanto estava no planeta sglum sua nave foi invadida por aliens que querem devora-lo ajude ele se proteger                          
+			click para passar...
+		</introdução>
+		<comandos id = "comandosUmamão">
+			Para combater seus inimigos você conta com o canhão de plasma que sai das mãos do nosso cowboy, basta apetar sua mão para que atire,mas cuidado!!! ele demora um tempo para recarregar seus tiros então atire com sabedoria...
+		</comandos> 
+		<comandos id = "comandosDuasMãos">
+			Para combater nossos inimigos você conta com o canhão de plasma que sai da mão do nosso cowboy , basta apertar sua mão esquerda para atirar com um canhã e a sua mãe direita para atira com o outro mas cuidado ele demora um pouco para recarregar então atire com sabedoria... 
+		</comandos>
+
+	</FaseCowboy>
+</Text>
